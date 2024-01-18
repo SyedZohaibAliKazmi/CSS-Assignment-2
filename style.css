@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;0,900;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemon&family=Noto+Nastaliq+Urdu:wght@600;700&display=swap');
+
+
+*{
+    background-color: rgb(46, 46, 46);
+}
+
+a{
+  color: rgb(138, 153, 0);
+  font-family: serif;
+  font-size: 30px;
+  text-align: left;
+ }
+ .first{
+    color: rgb(219, 161, 0);
+    font-family: 'Merriweather', serif;;
+    font-size: 30px;
+    font-style: italic;
+ }
+ .second{
+    color:rgb(172, 219, 0);
+    font-family: 'Lemon', serif;;
+    font-size: 30px;
+ }
+ .third{
+    color: rgb(0, 219, 91);
+    font-family: serif;
+    font-size: 30px;
+ }
+ .fourth{
+    color: rgb(0, 165, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px
+ }
+ .aoa{
+    color: rgb(0, 124, 124);
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-size: 30px;
+ }
